@@ -1,0 +1,134 @@
+
+.logo-img {
+  text-align: center;
+}
+
+.brand-link .logo-img {
+  text-align: center !important;
+}
+
+.bg-primary {
+  background: #0000001a !important;
+}
+
+.bg-secondary {
+  background: #01a4041f !important;
+}
+
+li.nav-item.dropdown {
+  LIST-STYLE: NONE;
+}
+
+.custome-image-profile {
+  border-radius: 50px;
+  height: 40px;
+  width: 40px;
+  object-fit: cover;
+  border: 3px solid #90969d;
+  padding: 2px 2px;
+  margin-top: -2px;
+}
+
+/* Inline #13 | https://www.fam2fam.org/adoption/training_materials */
+
+.backgorund-in-logout {
+  width: 100%;
+  border-radius: 4px;
+}
+
+.bg-open-loogut {
+  margin: 10px;
+}
+
+
+
+/* Inline #13 | https://www.fam2fam.org/adoption/training_materials */
+
+.custome-image-profile-2 {
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+  object-fit: cover;
+  border: 5px solid white;
+}
+
+.holdr-usre-data-hldr {
+  display: flex;
+  padding: 0px 20px;
+  margin-top: -25px;
+}
+
+.dropdown-divider.custom-dropdown-divider {
+  margin-top: 20px;
+}
+
+.usersname-unq-hre {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 13px;
+  margin-top: 17px;
+  margin-left: 5px;
+}
+
+
+/* Inline #13 | https://www.fam2fam.org/adoption/training_materials */
+
+.do-basta-unq {
+  font-size: 5px;
+  position: relative;
+  top: -1px;
+  margin: 0px 2px;
+}
+
+.user-basta-unq {
+  text-transform: uppercase;
+  font-size: 10px;
+}
+
+.user-basta-unq {
+  display: block;
+  margin-left: 5px;
+}
+
+
+.mg-footer-bast-unq {
+  padding: 0px 10px;
+}
+
+.family-family-small-logo-hldr {
+  float: left;
+  margin-bottom: -200px;
+  position: relative;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.fas.fa-exclamation-triangle {
+  font-size: 20px;
+  margin: 10px 10px;
+  color: #e84747;
+}
+
+.asking-header-unq {
+  margin-top: 10px;
+  margin-left: 5px;
+  color: #4d4d4d;
+}
+
+#custom-spinner-in-logout.spinner-border {
+  width: 1.1rem;
+  height: 1.1rem;
+  margin-right: 5px;
+}
+
+.bg-primary {
+  color: #000 !important;
+}
+
+.table-striped tbody tr:nth-of-type(2n+1) {
+  background: #56d5640d;
+}
+
+.bg-secondary, .bg-secondary > a {
+  color: #000;
+}
